@@ -1,0 +1,22 @@
+{
+    "patient_id": "123e4567-e89b-12d3-a456-426614174000",
+    "symptoms": {
+        "age": 30,
+        "gender": "Female",
+        "polyuria": "No",
+        "polydipsia": "No",
+        "sudden_weight_loss": "No",
+        "weakness": "No",
+        "polyphagia": "No",
+        "genital_thrush": "No",
+        "visual_blurring": "No",
+        "itching": "No",
+        "irritability": "No",
+        "delayed_healing": "No",
+        "partial_paresis": "No",
+        "muscle_stiffness": "No",
+        "alopecia": "No",
+        "obesity": "No"
+    },
+    "symptoms_text": "Patient reports persistent dry cough and mild sore throat."
+}

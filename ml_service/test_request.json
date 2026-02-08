@@ -1,0 +1,21 @@
+{
+    "patient_id": "123e4567-e89b-12d3-a456-426614174000",
+    "symptoms": {
+        "age": 58,
+        "gender": "Male",
+        "polyuria": "Yes",
+        "polydipsia": "Yes",
+        "sudden_weight_loss": "No",
+        "weakness": "Yes",
+        "polyphagia": "Yes",
+        "genital_thrush": "No",
+        "visual_blurring": "Yes",
+        "itching": "No",
+        "irritability": "No",
+        "delayed_healing": "No",
+        "partial_paresis": "Yes",
+        "muscle_stiffness": "No",
+        "alopecia": "Yes",
+        "obesity": "No"
+    }
+}

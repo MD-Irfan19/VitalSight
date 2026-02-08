@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python / ML Service
+ml_service/.env
+ml_service/venv/
+ml_service/__pycache__/
+ml_service/**/__pycache__/
+ml_service/*.pyc
+ml_service/models/*.pkl
+ml_service/*.log
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
